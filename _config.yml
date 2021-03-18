@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HomePage | Ruizhe Wang"
-title_separator          : "-"
+title                    : "HomePage"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Ruizhe Wang"
-description              : "HomePage of Ruizhe Wang"
+name                     : &name "Ruizhe Wang"
+description              : &description "HomePage of Ruizhe Wang"
 url                      : "https://ruizhe-w.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/"
 repository               : "ruizhe-w/ruizhe-w.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ruizhe Wang"
+  name             : "*name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Madison, WI"

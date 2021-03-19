@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : &name "Ruizhe Wang"
 description              : &description "HomePage of Ruizhe Wang"
 url                      : "https://ruizhe-w.github.io"
-baseurl                  : "/"
+baseurl                  : "/home"
 repository               : "ruizhe-w/ruizhe-w.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"

@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Home"
-    url: /
+    url: /#home
   - title: "Publications"
-    url: /#publications/
+    url: /#publications
   - title: "Awards"
-    url: /#awards/
+    url: /#awards
   # - title: "Misc"
   #   url: /home/#Misc/
   - title: "CV"
-    url:  /#cv/
+    url:  /#cv

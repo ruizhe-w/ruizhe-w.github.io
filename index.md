@@ -1,7 +1,10 @@
 ---
-# layout: home
+layout: single
 author_profile: true
 ---
+<a name="home"></a>
+
+### About
 
 I'm a senior undergraduate student at the University of Wisconsin-Madison, majoring in Computer Sciences (w/ honor) and
 Mathematics. My advisor is Prof. [Earlence Fernandes](http://www.earlence.com), and I am part of the [Madison Security and

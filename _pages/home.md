@@ -4,7 +4,7 @@ author_profile: true
 layout: home
 ---
 
-I'm a senior undergraduate student at the University of Wisconsin-Madison, majoring in Computer Sciences (w/ honor) and Mathematics. My advisor is Prof. [Earlence Fernandes](www.earlence.com), and I am part of the [Madison Security and Privacy (MadS&P)](madsp.cs.wisc.edu). Prior to UW-Madison, I spent two years at Beijing Institute of Technology majoring in the Internet of Things Engineering. 
+I'm a senior undergraduate student at the University of Wisconsin-Madison, majoring in Computer Sciences (w/ honor) and Mathematics. My advisor is Prof. [Earlence Fernandes](www.earlence.com), and I am a member of the [Madison Security and Privacy (MadS&P)](madsp.cs.wisc.edu). Prior to UW-Madison, I spent two years at Beijing Institute of Technology majoring in the Internet of Things Engineering. 
 
 My research focuses on Cyber Physical Systems Security and explores the security and privacy vulnerabilities of modern IoT systems. 
 

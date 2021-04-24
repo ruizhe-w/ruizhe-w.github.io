@@ -7,7 +7,7 @@ author_profile: true
 ### About
 
 I'm a senior undergraduate student at the University of Wisconsin-Madison, majoring in Computer Sciences (w/ honor) and
-Mathematics. My advisor is Prof. [Earlence Fernandes](http://www.earlence.com), and I am part of the [Madison Security and
+Mathematics. My advisor is Prof. [Earlence Fernandes](http://www.earlence.com), and I am a member of the [Madison Security and
 Privacy (MadS&P)](https://madsp.cs.wisc.edu). Prior to UW-Madison, I spent two years at Beijing Institute of Technology majoring
 in the Internet of Things Engineering.
 
